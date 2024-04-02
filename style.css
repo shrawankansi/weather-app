@@ -3,7 +3,10 @@
     padding: 0px;
     font-family: 'poppins',sans-serif;
     box-sizing: border-box;
-    /* background-color: #74817ecc; */
+
+}
+body{
+    background-color: #c4c3c9;
 }
 .card{
     width: 90%;
